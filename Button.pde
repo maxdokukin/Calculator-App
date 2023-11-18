@@ -27,18 +27,18 @@ class Button
         stroke(0);
       
         if(pressed || hold)
-          fill(162, 20, 179);  
+          fill(34, 77, 23);  
         else
-          fill(215, 83, 230);  
+          fill(9, 148, 65);  
       break;
     
       case 'n':  
         stroke(0);
         
         if(pressed)
-          fill(132, 132, 155);  
+          fill(96, 168, 48);  
         else
-          fill(192, 192, 226);
+          fill(159, 218, 64);
       break;
     }
     
